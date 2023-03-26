@@ -20,7 +20,7 @@ body {
   text-decoration: none;
 }
 
-/* ===================== Header ==================== */
+/* ================== Header ==================== */
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -73,7 +73,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--second-background-color);
 }
-/* =============== Contact information =============== */
+/* =============== Contact information ============== */
 .email-phone {
   font-style: normal;
   font-weight: 400;
